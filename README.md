@@ -3,7 +3,6 @@
 
 ![Website](https://img.shields.io/website?up_message=Link%20to%20Website&url=https%3A%2F%2Fjmh129.github.io%2Fgt-accessibility-html%2F)
 
-<<<<<<< HEAD
 ![GitHub](https://img.shields.io/github/license/jmh129/gt-accessibility-html?color=success%20&logoColor=%20)
 
 ## Introduction
@@ -29,4 +28,3 @@ Credit to the Georgia Institute of Technology Coding Bootcamp for the original s
 ![GitHub](https://img.shields.io/github/license/jmh129/gt-accessibility-html?color=success%20&logoColor=%20)
 =======
 ![GitHub](https://img.shields.io/github/license/jmh129/gt-accessibility-html)
->>>>>>> 35a449884bc6dc705a94a4c3bbb7ac0ce41816dc
