@@ -26,5 +26,3 @@ The website can used to either scroll down to the informatio or utilize that nav
 Credit to the Georgia Institute of Technology Coding Bootcamp for the original source code and instruction for the assignemnt. 
 ### License
 ![GitHub](https://img.shields.io/github/license/jmh129/gt-accessibility-html?color=success%20&logoColor=%20)
-=======
-![GitHub](https://img.shields.io/github/license/jmh129/gt-accessibility-html)
