@@ -90,6 +90,10 @@ a {
 3. Main Content
 */
 
+main h2 {
+  font-size: 36px;
+}
+
 /*
 3a. Search Engine Optimization Section
 */
@@ -107,11 +111,6 @@ a {
   max-height: 200px;
   float: left;
   margin-right: 25px;
-}
-
-.search-engine-optimization h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
 }
 
 /*
@@ -133,11 +132,6 @@ a {
   margin-left: 25px;
 }
 
-.online-reputation-management h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
-
 /*
 3c. Social Media Markeeting Section
 */
@@ -157,14 +151,14 @@ a {
   margin-right: 25px;
 }
 
-.social-media-marketing h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
-
 /*
 4. Aside
 */
+
+.aside h3 {
+  margin-bottom: 10px;
+  text-align: center;
+}
 
 /*
 4a. Lead Generation
@@ -189,11 +183,6 @@ a {
   color: #ffffff;
 }
 
-.benefit-lead h3 {
-  margin-bottom: 10px;
-  text-align: center;
-}
-
 .benefit-lead img {
   display: block;
   margin: 10px auto;
@@ -204,11 +193,6 @@ a {
 4b. Brand Awarenss
 */
 
-.benefit-brand h3 {
-  margin-bottom: 10px;
-  text-align: center;
-}
-
 .benefit-brand img {
   display: block;
   margin: 10px auto;
@@ -218,11 +202,6 @@ a {
 /*
 4c. Cost Management
 */
-
-.benefit-cost h3 {
-  margin-bottom: 10px;
-  text-align: center;
-}
 
 .benefit-cost img {
   display: block;
