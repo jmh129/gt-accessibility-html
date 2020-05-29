@@ -181,6 +181,9 @@ a {
   background-color: #2589bd;
 }
 
+/*
+"benefit-lead" is used for all articles in aside
+*/
 .benefit-lead {
   margin-bottom: 32px;
   color: #ffffff;
@@ -200,10 +203,6 @@ a {
 /*
 4b. Brand Awarenss
 */
-.benefit-brand {
-  margin-bottom: 32px;
-  color: #ffffff;
-}
 
 .benefit-brand h3 {
   margin-bottom: 10px;
@@ -219,11 +218,6 @@ a {
 /*
 4c. Cost Management
 */
-
-.benefit-cost {
-  margin-bottom: 32px;
-  color: #ffffff;
-}
 
 .benefit-cost h3 {
   margin-bottom: 10px;
